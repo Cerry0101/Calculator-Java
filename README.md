@@ -5,7 +5,7 @@
 calculator in Java (JSF and Servlet).
 This is presents two types of calculator, one with all operations and the other allowing only multiplication with the following numbers: 10, 100, 1000.
 
-## Index: operations menu
+## Index: Operations Menu
 
 ![Screenshot 2022-05-05 at 15-40-56 NAP1](https://user-images.githubusercontent.com/50150158/167001474-030b18c4-790f-4a05-917a-6d7874f684e4.png)
 
@@ -21,5 +21,5 @@ This is presents two types of calculator, one with all operations and the other 
 ## Result
 ![Screenshot 2022-05-05 at 15-42-32 Resultado da Operação](https://user-images.githubusercontent.com/50150158/167003998-c777a7cc-ce41-4e0b-b346-fad2aab9bd1d.png)
 
-## team
+## Team
 ![Screenshot 2022-05-05 at 15-43-02 Multiplicar](https://user-images.githubusercontent.com/50150158/167004099-b2fddc47-3b90-4a7f-aa00-816161108960.png)
